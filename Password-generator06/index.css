@@ -1,0 +1,86 @@
+body {
+    background-color: #1F2937;
+    text-align: center;
+}
+#h2 {
+     color:  lightgray;
+     font-size: 40px;
+        font-family: "Karla", sans-serif;
+        font-weight: 800;
+        font-style: ExtraBold;
+    margin-right: 290px;
+    margin-bottom: 0px;
+
+} 
+#h1 {
+    color: #10B981;
+     font-size: 40px;
+    font-family: "Karla", sans-serif;
+    font-weight: 800;
+    font-style: ExtraBold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 150px;
+
+}
+#para {
+    margin-top: 8px;
+    margin-right: 220px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    color: #D5D4D8;
+}
+
+.generate-btn {
+    margin-right: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 7px;
+    background-color: #10B981;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    color: lightgray;
+}
+#btn-wrapper {
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin-top: 40px;
+    margin-right: 58px;
+}
+.newpasswords{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #273549;
+  
+}
+#passlength {
+    margin-left: 5px;
+    width: 160px;
+
+}
+.checkbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+    padding: 5px;
+    border-radius: 6px;
+    width: 20px;
+    background-color: black;
+    color: white;
+    margin-left: 170px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+hr {
+    width: 510px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
